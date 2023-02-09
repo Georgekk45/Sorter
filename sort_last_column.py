@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import sys
 
 def extract_sort_print_column(filename):
