@@ -20,5 +20,3 @@ if __name__ == '__main__':
         sys.exit(1)
     filename = sys.argv[1]
     extract_sort_print_column(filename)
-
-#### Run the script bytyping in the command line: sort_last_column.py filename.tsv
